@@ -10,7 +10,7 @@ namespace P2_1_1214057
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tugas arithematic Operators");
+            Console.WriteLine("Tugas arithematic Operators Maylinda");
             Console.Write("Angka Pertama = ");
             int angka1 = int.Parse(Console.ReadLine());
             Console.Write("Angka Kedua = ");
